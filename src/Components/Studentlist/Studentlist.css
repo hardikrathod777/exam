@@ -1,0 +1,58 @@
+
+
+ul li{
+    list-style: none;
+    display: inline-block
+}
+ul{
+padding-left: 0px !important;
+}
+h1{
+    color: #1E8AD2 !important;
+    margin: 26px 0px 20px 25px;
+}
+
+.book-genre-div{
+    background-color: #D0EDFF;
+    margin-bottom: 20px !important;
+    border: 1px solid #1E8AD2;
+    margin: 25px;
+    border-radius: 10px;
+}
+.book-lists{
+    background: rgba( 255, 255, 255, 0.2 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 11px );
+    -webkit-backdrop-filter: blur( 11px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    margin-bottom: 10px;
+    width: 339px;
+    margin-left: 20px;
+}
+
+.photo-width img{
+    width: 100px;
+    height: 150px;
+}
+
+.book-detail{
+    margin-left: 10px;
+    padding-top: 10px;
+}
+.book-detail p{
+    margin-bottom: 10px;
+}
+.edit-btn{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 15px;
+    background-color: #1E8AD2;
+    margin-right: 18px;
+}
+.delete-btn{
+    border: none;
+    border-radius: 10px;
+    padding: 10px 15px;
+    background-color: #1E8AD2;
+}

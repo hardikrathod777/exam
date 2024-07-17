@@ -1,0 +1,33 @@
+.form-style{
+    width: 600px;
+    height: 500px;
+    background-color: #D0EDFF;
+    margin-top: 150px;
+    border: 1px solid #1E8AD2;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.add{
+    display: flex;
+    justify-content: center;
+}
+
+.input{
+    background-color: #D0EDFF;
+    border: 1px solid #1E8AD2;
+    border-radius: 10px;
+    width: 400px;
+    display: block;
+    margin-bottom: 18px;
+}
+
+.btn-style{
+    margin-left: 158px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 16px;
+    background-color: #1E8AD2;
+    padding: 5px 10px;
+}
